@@ -60,3 +60,64 @@ a:hover {
 	float: right;
 	height: 70px.;
 }
+
+#rigth_section_box{
+	margin: 0px 0px 15px 0px;
+	padding: 10px;
+	border: solid 1px;
+	border-color: #ccc;
+
+}
+
+
+#rigth_section_box h1{
+	color: #c60;
+	text-decoration: underline;
+	font-family: 15px;
+	margin: 0px 0px 8px 0px;
+	padding: 0px;
+
+}
+
+
+#rigth_section_box>h2>a{
+	color: #333;
+	text-decoration: none;
+	font-family: 11px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#rigth_section_box>h2:hover{
+	text-decoration: underline;
+
+}
+
+#rigth_section_box>p{
+	color: #333;
+	text-align : justify;
+	text-decoration: none;
+	font-family: 11px;
+	margin: 0px 0px 20px 0px;
+	padding: 0px;
+
+}
+#rigth_section_box>p.last{
+	margin: 0px;
+
+}
+
+#rigth_section_box>#galeria{
+	margin-left: 5px;
+
+}
+
+#rigth_section_box>#galeria>a>img{
+	margin: 5px 5px 0px 0px;
+
+}
+#rigth_section_box>a>img{
+	margin: 5px 0px 5px 0px;
+
+}
